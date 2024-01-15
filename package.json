@@ -1,5 +1,5 @@
 {
-  "name": "vigorous-virgo",
+  "name": "anish",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -24,7 +24,7 @@
     "astro-icon": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
-    "lucide-react": "^0.308.0",
+    "lucide-react": "^0.307.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "tailwind-merge": "^2.2.0",
